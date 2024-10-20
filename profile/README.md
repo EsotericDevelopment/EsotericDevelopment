@@ -1,1 +1,1 @@
-# Esoteric Organisation
+# Esoteric Foundation
