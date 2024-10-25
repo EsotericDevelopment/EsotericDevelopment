@@ -1,1 +1,4 @@
 
+[submodule "profile/logo"]
+	path = profile/logo
+	url = git@github.com:EsotericFoundation/logo.git
