@@ -33,7 +33,7 @@
 <h2 align="center">Links</h2>
 
 <p align="center">
-    <a href="https://www.github.com/EsotericEnderman"><img src="../assets/badges/github.svg" alt="GitHub"></a>
-    <a href="https://www.npmjs.com/~esotericenderman"><img src="../assets/badges/npm.svg" alt="npm"></a>
-    <a href="https://www.youtube.com/@esotericenderman"><img src="../assets/badges/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.github.com/EsotericFoundation"><img src="../assets/badges/github.svg" alt="GitHub"></a>
+    <a href="https://www.npmjs.com/~esotericfoundation"><img src="../assets/badges/npm.svg" alt="npm"></a>
+    <a href="https://www.youtube.com/@esotericfoundation"><img src="../assets/badges/youtube.svg" alt="YouTube"></a>
 </p>
