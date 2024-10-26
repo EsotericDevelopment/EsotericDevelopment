@@ -21,7 +21,7 @@
 
 <p align="center"><sup>Unless stated otherwise, all of our software is licensed under the <a href="../assets/licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="../assets/licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
 
-## <p align="center">Contact</p>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## <p align="center">Links</p>
+<h2 align="center">Links</h2>
 
 <p align="center">
     <a href="https://www.github.com/EsotericEnderman"><img src="../assets/badges/github.svg" alt="GitHub"></a>
