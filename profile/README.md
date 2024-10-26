@@ -11,10 +11,10 @@
   </tr>
   <tr>
     <td>🌳</td>
-    <td><b><a href="https://www.github.com/TheSlimySwamp">The Slimy Swamp</a></b></td>
+    <td><a href="https://www.github.com/TheSlimySwamp">The Slimy Swamp</a></td>
   </tr>
   <tr>
     <td>⛏️</td>
-    <td><b><a href="https://www.github.com/SlimeSMP">Slime SMP</a></b></td>
+    <td><a href="https://www.github.com/SlimeSMP">Slime SMP</a></td>
   </tr>
 </table>
