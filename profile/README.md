@@ -4,9 +4,11 @@
 
 <p align=center>A small team of developers dedicated to creating high-quality software.</p>
 
-<h2 align=center> Projects </h2>
-
 <table align="center">
+  <tr>
+    <td>⚙️</td>
+    <td><a href="https://github.com/orgs/EsotericFoundation/repositories">Projects</td>
+  </tr>
   <tr>
     <td>🌳</td>
     <td><b><a href="https://www.github.com/TheSlimySwamp">The Slimy Swamp</a></b></td>
