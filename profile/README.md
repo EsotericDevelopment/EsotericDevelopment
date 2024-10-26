@@ -25,9 +25,8 @@
 
 <div align="center">
 
-| <a href="https://www.discord.com/channels/@me"><img src="../assets/badges/discord.svg" alt="Discord"></a> | Work-in-progress                          |
-| :----------------------------------------------------------------------------------------------------- | :---------------------------------------- |
-| <a href="https://www.gmail.com/"><img src="../assets/badges/email.svg" alt="Email"></a>                   | <code>foundationesoteric@gmail.com</code> |
+| <a href="https://www.gmail.com/"><img src="../assets/badges/email.svg" alt="Email"></a> | <code>foundationesoteric@gmail.com</code> |
+| :-------------------------------------------------------------------------------------- | :---------------------------------------- |
 
 </div>
 
