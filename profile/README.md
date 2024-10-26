@@ -6,10 +6,13 @@
 
 <h2 align=center> Projects </h2>
 
-<div align=center>
-
-&bullet; 🌳 <b><a href="https://www.github.com/TheSlimySwamp">The Slimy Swamp</a></b>
-
-&bullet; ⛏️ <b><a href="https://www.github.com/SlimeSMP">Slime SMP</a></b>
-
-</div>
+<table align="center">
+  <tr>
+    <td>🌳</td>
+    <td><b><a href="https://www.github.com/TheSlimySwamp">The Slimy Swamp</a></b></td>
+  </tr>
+  <tr>
+    <td>⛏️</td>
+    <td><b><a href="https://www.github.com/SlimeSMP">Slime SMP</a></b></td>
+  </tr>
+</table>
