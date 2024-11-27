@@ -4,10 +4,6 @@
 
 ## License
 
-[Esoteric Foundation .github](https://github.com/EsotericFoundation/.github) Copyright (C) 2024 [Esoteric Foundation](https://esoteric.foundation)
-
-This program is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](./LICENSE) as published by the [Free Software Foundation](https://www.fsf.org/), either [version 3](./LICENSE) of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU General Public License](./LICENSE) for more details.
-
-You should have received a copy of the [GNU General Public License](./LICENSE) along with this program. If not, see <[gnu.org/licenses](https://www.gnu.org/licenses/)>.
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+  <a property="dct:title" rel="cc:attributionURL" href="https://github.com/EsotericFoundation/.github">Esoteric Foundation .github</a> &copy; 2024 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://esoteric.foundation">Esoteric Foundation</a> is licensed under <a href="./LICENSE" target="_blank" rel="license noopener noreferrer" style="display: inline-block">CC BY-SA 4.0</a><a href="https://creativecommons.org/"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="Creative Commons Icon" /><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="Creative Commons Attribution Icon" /></a><a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en"><img style="height: 22px !important; margin-left: 3px; vertical-align: middle" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="Creative Commons ShareAlike Icon" /></a>.
+</p>
