@@ -19,8 +19,6 @@
   </tr>
 </table>
 
-<p align="center"><sup>Unless stated otherwise, all of our software is licensed under the <a href="../assets/licenses/MIT License.md">MIT license</a> and all other works are licensed under the <a href="../assets/licenses/CC-BY-4.0 License.md">CC-BY-4.0 license</a>.</sup></p>
-
 <h2 align="center">Contact</h2>
 
 <div align="center">
